@@ -5,15 +5,14 @@
 - 📫 Feel free to check out my repositories for your learning purposes.
 
 
+### Languages And Frameworks
+<code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/java.png" title="Java"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/spring-boot.png" title="Spring Boot"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/js.png" title="JavaScript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/AWS.png" title="AWS Services"></code><code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/html.png" title="HTML"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/react.png" title="React JS"></code>
+
 ### Tools And Technologies
-<code><img height="20" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/java.png" title="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/java.png" title="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/java.png" title="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/java.png" title="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/java.png" title="Java"></code>
-
-<br>
-
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=orange&color=blue)
 
 ### Stats
