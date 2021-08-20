@@ -9,7 +9,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/java.png" title="Java"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/spring-boot.png" title="Spring Boot"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/js.png" title="JavaScript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/aws.png" title="AWS Services"></code><code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/html.png" title="HTML"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/amazon.png" title="AWS Services"></code><code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/html.png" title="HTML"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/react.png" title="React JS"></code>
 
 ### Tools And Technologies
