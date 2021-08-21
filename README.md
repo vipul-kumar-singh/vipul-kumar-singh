@@ -1,4 +1,4 @@
-## Hi there, I'm [Vipul](https://github.com/vipul-kumar-singh/)! <img src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/gif/wave.gif" width="20px">
+## Hi there, I'm [Vipul](https://github.com/vipul-kumar-singh/)! <img src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/main/src/gif/wave.gif" width="20px">
 
 - 💻 I work as a Software Engineer.
 - 👀 I’m interested in learning new things.
@@ -6,12 +6,12 @@
 
 
 ### Languages And Frameworks
-<code><a href="https://github.com/vipul-kumar-singh/DataStructures"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/java.png" title="Java"></a></code>
-<code><a href="https://github.com/vipul-kumar-singh/Resource-Server"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/spring-boot.png" title="Spring Boot"></a></code>
-<code><a href="https://github.com/vipul-kumar-singh/Complete-JavaScript-2021"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/js.png" title="JavaScript"></a></code>
-<code><a href="https://github.com/vipul-kumar-singh/React-The-Complete-Guide"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/react.png" title="React JS"></a></code>
-<code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/html.png" title="HTML"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/css.png" title="CSS"></code>
+<code><a href="https://github.com/vipul-kumar-singh/DataStructures"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/main/src/logo/java.png" title="Java"></a></code>
+<code><a href="https://github.com/vipul-kumar-singh/Resource-Server"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/main/src/logo/spring-boot.png" title="Spring Boot"></a></code>
+<code><a href="https://github.com/vipul-kumar-singh/Complete-JavaScript-2021"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/main/src/logo/js.png" title="JavaScript"></a></code>
+<code><a href="https://github.com/vipul-kumar-singh/React-The-Complete-Guide"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/main/src/logo/react.png" title="React JS"></a></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/main/src/logo/html.png" title="HTML"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/main/src/logo/css.png" title="CSS"></code>
 
 ### Tools And Technologies
 ![](https://img.shields.io/badge/API-JPA-informational?style=flat&logo=hibernate&logoColor=e6ac00&color=0099ff&labelColor=white)
