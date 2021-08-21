@@ -52,6 +52,6 @@
 
 ### Stats
 
-[![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipul-kumar-singh&show_icons=true&theme=algolia)](https://github.com/vipul-kumar-singh/)
+[![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipul-kumar-singh&show_icons=true&theme=algolia)](https://github.com/vipul-kumar-singh?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipul-kumar-singh&show_icons=true&theme=algolia&layout=compact)](https://github.com/vipul-kumar-singh/)
