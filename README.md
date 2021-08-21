@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/BE-Kafka-informational?style=flat&logo=java&logoColor=orange&color=blue), 
 ![](https://img.shields.io/badge/BE-Elasticsearch-informational?style=flat&logo=java&logoColor=orange&color=blue) 
 ![](https://img.shields.io/badge/DB-MySql-informational?style=flat&logo=java&logoColor=orange&color=blue)
-![](https://img.shields.io/badge/DB-Postgres-informational?style=flat&logo=java&logoColor=orange&color=blue)-12, 
+![](https://img.shields.io/badge/DB-Postgres-informational?style=flat&logo=java&logoColor=orange&color=blue), 
 ![](https://img.shields.io/badge/DB-MongoDb-informational?style=flat&logo=java&logoColor=orange&color=blue)
 ![](https://img.shields.io/badge/Server-Tomcat-informational?style=flat&logo=java&logoColor=orange&color=blue)
 ![](https://img.shields.io/badge/Build-Maven-informational?style=flat&logo=java&logoColor=orange&color=blue) 
