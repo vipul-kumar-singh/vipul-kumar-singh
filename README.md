@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/API-JPA-informational?style=flat&logo=hibernate&logoColor=e6ac00&color=0099ff&labelColor=white)
 ![](https://img.shields.io/badge/ORM-Hibernate-informational?style=flat&logo=hibernate&logoColor=e6ac00&color=0099ff&labelColor=white)
 ![](https://img.shields.io/badge/Arch-MVC-informational?style=flat&logo=spring&logoColor=6DB33F&color=0099ff&labelColor=white)
-[![Vipul's GitHub stats](https://img.shields.io/badge/Arch-Microservices-informational?style=flat&logo=springboot&logoColor=6DB33F&color=0099ff&labelColor=white)](https://github.com/vipul-kumar-singh/Eureka)
+[![MIcroService](https://img.shields.io/badge/Arch-Microservices-informational?style=flat&logo=springboot&logoColor=6DB33F&color=0099ff&labelColor=white)](https://github.com/vipul-kumar-singh/Eureka)
 ![](https://img.shields.io/badge/FE-JSP-informational?style=flat&logo=java&logoColor=orange&color=0099ff&labelColor=white)
 ![](https://img.shields.io/badge/FE-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=005F0F&color=0099ff&labelColor=white)
 ![](https://img.shields.io/badge/BE-Kafka-informational?style=flat&logo=apachekafka&logoColor=black&color=0099ff&labelColor=white)
