@@ -4,17 +4,15 @@
 - 👀 I’m interested in learning new things.
 - 📫 Feel free to check out my repositories for your learning purposes.
 
-You can find me on [![LinkedIn][1.1]][1].
-[1]: https://in.linkedin.com/in/vipul-kumar-singh-b25b8b178
-[1.1]: https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/linkedin.png
+Find me on <a href="https://in.linkedin.com/in/vipul-kumar-singh-b25b8b178"><img height="10" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/linkedin.png" title="Java"></a>.
 
 ### Languages And Frameworks
-<code><a href="https://github.com/vipul-kumar-singh/DataStructures"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/java.png" title="Java"></a></code>
-<code><a href="https://github.com/vipul-kumar-singh/Resource-Server"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/spring-boot.png" title="Spring Boot"></a></code>
+<code><a href="https://github.com/vipul-kumar-singh/DataStructures"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/java-no-bg.png" title="Java"></a></code>
+<code><a href="https://github.com/vipul-kumar-singh/Resource-Server"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/spring-boot-no-bg.png" title="Spring Boot"></a></code>
 <code><a href="https://github.com/vipul-kumar-singh/Complete-JavaScript-2021"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/js.png" title="JavaScript"></a></code>
 <code><a href="https://github.com/vipul-kumar-singh/React-The-Complete-Guide"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/react.png" title="React JS"></a></code>
 <code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/html.png" title="HTML"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/css.png" title="CSS"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/css-no-bg.png" title="CSS"></code>
 
 ### Tools And Technologies
 ![](https://img.shields.io/badge/-JPA-informational?style=flat&logo=hibernate&logoColor=e6ac00&color=0099ff&labelColor=white)
