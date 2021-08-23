@@ -4,6 +4,9 @@
 - 👀 I’m interested in learning new things.
 - 📫 Feel free to check out my repositories for your learning purposes.
 
+You can find me on [![LinkedIn][1.1]][1].
+[1]: https://in.linkedin.com/in/vipul-kumar-singh-b25b8b178
+[1.1]: https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/linkedin.png
 
 ### Languages And Frameworks
 <code><a href="https://github.com/vipul-kumar-singh/DataStructures"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/master/src/logo/java.png" title="Java"></a></code>
@@ -21,7 +24,7 @@
 ![](https://img.shields.io/badge/-JSP-informational?style=flat&logo=java&logoColor=orange&color=0099ff&labelColor=white)
 ![](https://img.shields.io/badge/-Thymeleaf-informational?style=flat&logo=thymeleaf&logoColor=005F0F&color=0099ff&labelColor=white)
 ![](https://img.shields.io/badge/-Kafka-informational?style=flat&logo=apachekafka&logoColor=black&color=0099ff&labelColor=white)
-![](https://img.shields.io/badge/-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=00ffff&color=0099ff&labelColor=white)
+![](https://img.shields.io/badge/-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=3366ff&color=0099ff&labelColor=white)
 ![](https://img.shields.io/badge/-MySql-informational?style=flat&logo=mysql&logoColor=4479A1&color=0099ff&labelColor=white)
 ![](https://img.shields.io/badge/-Postgres-informational?style=flat&logo=postgresql&logoColor=4169E1&color=0099ff&labelColor=white)
 ![](https://img.shields.io/badge/-Mongo-informational?style=flat&logo=mongodb&logoColor=47A248&color=0099ff&labelColor=white)
