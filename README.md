@@ -4,7 +4,7 @@
 - 👀 I’m interested in learning new things.
 - 📫 Feel free to check out my repositories for your learning purposes.
 
-Find me on <a href="https://in.linkedin.com/in/vipul-kumar-singh-b25b8b178"><img height="20" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/main/src/logo/linkedin.png" title="LinkedIn"></a>.
+Find me on <a href="https://in.linkedin.com/in/vipul-kumar-singh-b25b8b178"><img height="17" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/main/src/logo/linkedin-full.png" title="LinkedIn"></a>.
 
 ### Languages And Frameworks
 <code><a href="https://github.com/vipul-kumar-singh/DataStructures"><img height="30" src="https://raw.githubusercontent.com/vipul-kumar-singh/vipul-kumar-singh/main/src/logo/java-no-bg.png" title="Java"></a></code>
